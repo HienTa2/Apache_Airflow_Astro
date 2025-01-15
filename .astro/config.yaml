@@ -1,2 +1,6 @@
 project:
+<<<<<<< HEAD
     name: etl-apache-airflow-astro
+=======
+    name: scripts
+>>>>>>> origin/main
