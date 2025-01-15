@@ -264,9 +264,3 @@ If you encounter `fatal: refusing to merge unrelated histories`, resolve it as f
   ```
 
 ---
-
-## How to Extend the Project
-- Add new data sources or APIs to the pipeline.
-- Visualize the weather data using tools like Tableau or Power BI.
-- Add more transformations, such as data normalization or aggregation.
-- Schedule the pipeline for other cities or regions.
