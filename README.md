@@ -38,7 +38,7 @@ ETL_Apache_Airflow_Astro/
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository_url>
+   git clone (https://github.com/HienTa2/Apache_Airflow_Astro)
    cd ETL_Apache_Airflow_Astro
    ```
 
